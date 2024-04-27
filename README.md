@@ -43,7 +43,7 @@ int dist[V]
 *Print the constructed distance array:*  
     printSolution(dist)  
    
-*The example graph:*
+*The example graph:*  
     int graph[V][V] = { { 0, 4, 0, 0, 0, 0, 0, 8, 0 },  
                         { 4, 0, 8, 0, 0, 0, 0, 11, 0 },  
                         { 0, 8, 0, 7, 0, 4, 0, 0, 2 },  
